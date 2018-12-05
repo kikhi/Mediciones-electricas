@@ -1,2 +1,9 @@
 # Mediciones-electricas
-Ejercicio de la materia elabora sistemas administrativos con progrmacion (PFLC)
+Escuela - PFLC
+
+Materia - Elabora sistemas administrativos con programacion
+
+##Notas
+- No es responsivo
+
+![](Image.PNG)
